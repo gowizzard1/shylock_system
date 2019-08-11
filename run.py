@@ -10,7 +10,7 @@ app=Bottle()
 #connect to a local database
 
 
-db = create_engine('postgresql://postgres@localhost:5432/auth')
+db = create_engine('postgresql://postgres@localhost:5432/loans')
 connection = db.connect()
 
 
