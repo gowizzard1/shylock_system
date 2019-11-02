@@ -75,5 +75,5 @@ virtualenv==16.7.2
 virtualenv-clone==0.3.0
 virtualenvwrapper==4.8.4
 virtualenvwrapper-win==1.2.5
-Werkzeug==0.12
+Werkzeug==0.15.3
 WTForms==2.2.1
