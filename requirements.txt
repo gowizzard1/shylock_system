@@ -16,7 +16,7 @@ click==6.7
 cryptography==2.3.1
 defusedxml==0.5.0
 dj-database-url==0.5.0
-Django==1.9
+Django>=1.9
 django-colorfield==0.1.15
 django-crispy-forms==1.7.2
 django-extensions==2.1.7
@@ -75,5 +75,5 @@ virtualenv==16.7.2
 virtualenv-clone==0.3.0
 virtualenvwrapper==4.8.4
 virtualenvwrapper-win==1.2.5
-Werkzeug==0.12
+werkzeug>=0.15.3
 WTForms==2.2.1
