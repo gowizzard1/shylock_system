@@ -26,7 +26,7 @@ djangorestframework-jwt==1.11.0
 docutils==0.14
 edx-auth-backends==1.2.1
 Flask==0.12
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-HTTPAuth==3.2.4
 Flask-Login==0.4.0
 Flask-Migrate==2.0.3
