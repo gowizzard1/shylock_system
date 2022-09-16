@@ -40,7 +40,7 @@ idna==2.7
 itsdangerous==0.24
 Jinja2==2.9.5
 jmespath==0.9.3
-Mako==1.0.6
+Mako==1.2.2
 MarkupSafe==1.0
 mysql-connector-python==8.0.12
 oauthlib==2.1.0
