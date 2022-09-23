@@ -48,7 +48,7 @@ packaging==16.8
 passlib==1.7.1
 pbr==5.3.1
 pipenv==2018.11.26
-protobuf==3.6.1
+protobuf==3.18.3
 psycopg2==2.7.5
 pycparser==2.19
 pycryptodomex==3.7.2
